@@ -431,10 +431,10 @@ Ilham`;
           >
             <Heart className="w-8 h-8 sm:w-12 sm:h-12 fill-current mx-auto mb-4 sm:mb-6 text-rose-500" />
             <p className="text-base sm:text-xl text-rose-600 font-light mb-3 sm:mb-4">
-              Dengan komitmen dan cinta yang abadi
+              Dengan komitmen dan cinta yang tulus
             </p>
             <p className="text-sm sm:text-base text-rose-500 italic">
-              Selamanya untukmu, Astri tersayang
+              Pure love, for you the only one
             </p>
           </motion.div>
         </div>
