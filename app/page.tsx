@@ -48,7 +48,7 @@ export default function AstriLanding() {
 
   // Gallery images from /gallery/foto-{i}.png
   const galleryImages = Array.from(
-    { length: 38 },
+    { length: 46 },
     (_, i) => `/gallery/foto-${i + 1}.png`
   );
 
